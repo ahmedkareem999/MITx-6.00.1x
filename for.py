@@ -43,6 +43,7 @@ For problems such as these, do not include input statements or define variables 
 '''
 val1 = 0
 val2 = 0
+end=6
 for val1 in range(val1,end):
     val1 += 1
     val2 += val1
